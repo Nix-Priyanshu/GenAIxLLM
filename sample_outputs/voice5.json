@@ -1,0 +1,13 @@
+{
+  "file": "voice5.mp3",
+  "heard": "my credit card refund was initiated on october seventeenth twenty twenty six when will it arrive",
+  "reply": "Credit card refunds take 5 to 7 business days after initiation. Since your refund was initiated on 17 October, it should arrive between 22 October and 23 October 2026. A human colleague can follow up if you need further assistance.\n\nSOURCES: REF-",
+  "sources": [
+    "RET-7",
+    "REF-1",
+    "REF-2",
+    "REF-6",
+    "CAN-1"
+  ],
+  "reply_audio": "sample_outputs\\voice5_reply.wav"
+}

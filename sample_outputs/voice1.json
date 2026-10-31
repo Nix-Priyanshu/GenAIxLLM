@@ -1,0 +1,13 @@
+{
+  "file": "voice1.mp3",
+  "heard": "how long do i have to return a pair of shoes",
+  "reply": "I am an AI assistant. Shoes generally have a 15-day return window from your delivery date. If your shoes were bought during the festive sale (orders placed 1–15 October 2026), you have 30 days from delivery instead.\n\nSOURCES: RET-2, RET-8",
+  "sources": [
+    "RET-9",
+    "FAQ-1",
+    "RET-8",
+    "RET-2",
+    "RET-6"
+  ],
+  "reply_audio": "sample_outputs\\voice1_reply.wav"
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "file": "voice1.mp3",
+    "heard": "how long do i have to return a pair of shoes",
+    "reply": "I am an AI assistant. Shoes generally have a 15-day return window from your delivery date. If your shoes were bought during the festive sale (orders placed 1–15 October 2026), you have 30 days from delivery instead.\n\nSOURCES: RET-2, RET-8",
+    "sources": [
+      "RET-9",
+      "FAQ-1",
+      "RET-8",
+      "RET-2",
+      "RET-6"
+    ],
+    "reply_audio": "sample_outputs\\voice1_reply.wav"
+  },
+  {
+    "file": "voice2.mp3",
+    "heard": "what if i already opened the box",
+    "reply": "Opening the original box does not automatically make shoes non-returnable, provided they are unused and in resalable condition within the valid return window. Please ensure all tags and inner packaging are intact.\n\nSOURCES: RET-",
+    "sources": [],
+    "reply_audio": "sample_outputs\\voice2_reply.wav"
+  },
+  {
+    "file": "voice3.mp3",
+    "heard": "do you have a physical store in mumbai",
+    "reply": "I do not have information regarding ZentroMart’s physical store locations. I can connect you with a human colleague to answer this question.\n\nSOURCES: none",
+    "sources": [
+      "WAR-3"
+    ],
+    "reply_audio": "sample_outputs\\voice3_reply.wav"
+  },
+  {
+    "file": "voice4a.mp3",
+    "heard": "hi i want to check on my order the order number is six nine five two oh eight six seven",
+    "reply": "Hi, you're speaking with an AI assistant. To protect your privacy, please provide either the last 4 digits of the registered phone number or the delivery pincode associated with the order.",
+    "sources": [
+      "IDV-2",
+      "CPN-1",
+      "REF-6",
+      "TRK-1",
+      "CAN-1"
+    ],
+    "reply_audio": "sample_outputs\\voice4a_reply.wav"
+  },
+  {
+    "file": "voice4b.mp3",
+    "heard": "my phone number ends in oh one oh one my delivery pin code is one six o one seven",
+    "reply": "Order ID 69520867",
+    "sources": [
+      "PAY-2",
+      "REF-3",
+      "PAY-1",
+      "REF-5",
+      "IDV-2"
+    ],
+    "reply_audio": "sample_outputs\\voice4b_reply.wav"
+  },
+  {
+    "file": "voice5.mp3",
+    "heard": "my credit card refund was initiated on october seventeenth twenty twenty six when will it arrive",
+    "reply": "Credit card refunds take 5 to 7 business days after initiation. Since your refund was initiated on 17 October, it should arrive between 22 October and 23 October 2026. A human colleague can follow up if you need further assistance.\n\nSOURCES: REF-",
+    "sources": [
+      "RET-7",
+      "REF-1",
+      "REF-2",
+      "REF-6",
+      "CAN-1"
+    ],
+    "reply_audio": "sample_outputs\\voice5_reply.wav"
+  }
+]

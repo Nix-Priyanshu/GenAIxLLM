@@ -1,0 +1,13 @@
+{
+  "file": "voice4b.mp3",
+  "heard": "my phone number ends in oh one oh one my delivery pin code is one six o one seven",
+  "reply": "Order ID 69520867",
+  "sources": [
+    "PAY-2",
+    "REF-3",
+    "PAY-1",
+    "REF-5",
+    "IDV-2"
+  ],
+  "reply_audio": "sample_outputs\\voice4b_reply.wav"
+}

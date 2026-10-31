@@ -1,0 +1,9 @@
+{
+  "file": "voice3.mp3",
+  "heard": "do you have a physical store in mumbai",
+  "reply": "I do not have information regarding ZentroMart’s physical store locations. I can connect you with a human colleague to answer this question.\n\nSOURCES: none",
+  "sources": [
+    "WAR-3"
+  ],
+  "reply_audio": "sample_outputs\\voice3_reply.wav"
+}

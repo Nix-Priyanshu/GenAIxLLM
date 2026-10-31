@@ -1,0 +1,366 @@
+[
+  {
+    "id": "PQ0002",
+    "status": "FAIL",
+    "reply": "Haan, main ek AI assistant hoon. Mujhe SKU ELE-0012 ke liye ZentroMart Assured ki jaankari ya claim ki process se roop mein data nahi mila hai, isliye main ise confirm nahi kar sakta. Kya main aapko human colleague ke saath connect kar dun?",
+    "sources": [],
+    "gold_evidence": "WAR-2 ; products.csv:ELE-0012"
+  },
+  {
+    "id": "PQ0003",
+    "status": "FAIL",
+    "reply": "Hello, I am an AI assistant. I don't have specific information regarding the exact time frame for wallet refunds in the provided details. I can connect you to a human colleague to get a precise answer.",
+    "sources": [],
+    "gold_evidence": "REF-2 ; KB-00.1"
+  },
+  {
+    "id": "PQ0004",
+    "status": "PASS",
+    "reply": "I am an AI assistant. I don't have information on whether midnight deliveries are available. I can offer to connect you to a human colleague for specific scheduling options.",
+    "sources": [],
+    "gold_evidence": ""
+  },
+  {
+    "id": "PQ0005",
+    "status": "FAIL",
+    "reply": "Main ZentroMart ka AI assistant hoon. Kyunki mere paas SKU ELE-0002 se juda koi specific product data ya policy detail nahi hai, main aapko yeh nahi bata sakta ki yeh item ZentroMart Assured hai ya nahi.\n\nYeh detail confirm karne ke liye main aapko ek human colleague se connect kar sakta hoon?",
+    "sources": [],
+    "gold_evidence": "WAR-2 ; products.csv:ELE-0002"
+  },
+  {
+    "id": "PQ0006",
+    "status": "PASS",
+    "reply": "I am your ZentroMart AI assistant. I don't have specific details in my provided information regarding whether ZentroMart Plus members are waived from pickup fees for shoe returns. Please allow me to connect you with a human colleague who can confirm this for you.",
+    "sources": [],
+    "gold_evidence": "RET-6 ; PLS-2"
+  },
+  {
+    "id": "PQ0008",
+    "status": "FAIL",
+    "reply": "Namaste, main ZentroMart ka AI assistant hoon. Mujhe aapke specific order ya refund details nahi mil gayi, isliye main confirm nahi kar sakta ki payment 17 October 2026 ko shuru tha.\n\nMera knowledge standard 5-7 working days ka refund window hai, lekin please human support se connect hokar apne order number ke saath exact status verify karein.",
+    "sources": [],
+    "gold_evidence": "REF-2 ; KB-00.3"
+  },
+  {
+    "id": "PQ0009",
+    "status": "PASS",
+    "reply": "Hello, I am ZentroMart's AI assistant. I don't have specific information regarding student discounts in the provided details. I can connect you with a human colleague who can clarify this for you.",
+    "sources": [],
+    "gold_evidence": ""
+  },
+  {
+    "id": "PQ0010",
+    "status": "FAIL",
+    "reply": "I am an AI assistant. I do not have specific information regarding ZentroMart's return policy for damaged items like torn jeans in the provided documents. Please allow me to connect you with a human colleague who can clarify this for you.",
+    "sources": [],
+    "gold_evidence": "RET-6 ; DWM-2"
+  },
+  {
+    "id": "PQ0013",
+    "status": "FAIL",
+    "reply": "Hello! I am an AI assistant. I do not have the specific return policy for opened cosmetics or your order details in my current information. Please allow me to connect you with a human colleague who can check this for you.",
+    "sources": [],
+    "gold_evidence": "RET-4"
+  },
+  {
+    "id": "PQ0014",
+    "status": "FAIL",
+    "reply": "मैं एक AI सहायक हूँ। प्रदान की गई जानकारी में इस उत्पाद के लिए रिटर्न पॉलिसी के विवरण उपलब्ध नहीं हैं। कृपया किसी मानव सहकर्मी से बात करने की अनुमति दें ताकि मैं सटीक जानकारी दे सकूँ।",
+    "sources": [],
+    "gold_evidence": "RET-2 ; products.csv:BKS-0056"
+  },
+  {
+    "id": "PQ0015",
+    "status": "PASS",
+    "reply": "Main ek AI assistant hoon. Mere paas pure cases ke liye GST invoice ki policy se judi koi jaankari nahi hai, isliye main yeh confirm nahi kar sakta ki aapko milega ya nahi. Kya main aapko is sawaal ke liye kisi human colleague se connect kar sakta hoon?",
+    "sources": [],
+    "gold_evidence": ""
+  },
+  {
+    "id": "PQ0016",
+    "status": "FAIL",
+    "reply": "Hello, I am ZentroMart's AI assistant. I do not have specific information regarding the return policy for opened perfumes. Please allow me to connect you with a human colleague for further assistance.",
+    "sources": [],
+    "gold_evidence": "RET-4 ; RET-2"
+  },
+  {
+    "id": "PQ0018",
+    "status": "PASS",
+    "reply": "मैं ZentroMart का AI सहायक हूं। आपको उपलब्ध जानकारी में वापसी की नियमावली के बारे में कोई विवरण नहीं दिया गया है, इसलिए मैं इसका उत्तर नहीं दे सकता। क्या आप चाहेंगे कि मैं आपको एक मानव सहकर्मी से जोड़ दूँ?",
+    "sources": [],
+    "gold_evidence": "RET-2"
+  },
+  {
+    "id": "PQ0019",
+    "status": "FAIL",
+    "reply": "Hello, I am an AI assistant from ZentroMart. I don't have access to your specific order details or the exact return policy for that item in my current information. Please allow me to connect you with a human colleague who can verify your specific return window.",
+    "sources": [],
+    "gold_evidence": "RET-3 ; RETv3-2"
+  },
+  {
+    "id": "PQ0020",
+    "status": "FAIL",
+    "reply": "नमस्कार, मैं एक AI सहायक हूँ। उपलब्ध जानकारी में Sootra Canvas Tote Bag के लौटाने के नियमों या अवधि के बारे में कोई जानकारी नहीं दी गई है। क्या आप चाहेंगे कि मैं आपको किसी मानव सहयोगी से जोड़ूं?",
+    "sources": [],
+    "gold_evidence": "RET-2 ; RET-8 ; products.csv:FSH-0038"
+  },
+  {
+    "id": "PQ0021",
+    "status": "FAIL",
+    "reply": "I am an AI assistant. I do not have specific information regarding ZentroMart's missed delivery protocols. Please allow me to connect you with a human colleague to get the exact details.",
+    "sources": [],
+    "gold_evidence": "DEL-3"
+  },
+  {
+    "id": "PQ0022",
+    "status": "FAIL",
+    "reply": "I am ZentroMart's AI assistant. I do not have specific information about your individual refund's expected arrival date in the provided details. Please let me know if you would like to connect with a human colleague for further assistance with your order.",
+    "sources": [],
+    "gold_evidence": "REF-2 ; KB-00.3"
+  },
+  {
+    "id": "PQ0023",
+    "status": "PASS",
+    "reply": "You must be new here! I am an AI assistant at ZentroMart. Since I do not have your specific account details or order history in front of me, I cannot verify this unauthorized order. Please allow me to connect you with a human colleague who can securely investigate your account and block any unverified transactions.",
+    "sources": [],
+    "gold_evidence": "ESC-1"
+  },
+  {
+    "id": "PQ0024",
+    "status": "FAIL",
+    "reply": "I am an AI assistant here to help you. I don't have the specific return window details for the Rangoli Cotton Straight Kurta in the information provided. Please allow me to connect you with a human colleague who can check your specific order details.",
+    "sources": [],
+    "gold_evidence": "RET-2 ; RET-8 ; products.csv:FSH-0026"
+  },
+  {
+    "id": "PQ0025",
+    "status": "FAIL",
+    "reply": "I am an AI assistant. I don't have the specific information regarding net banking refund timelines in the provided details. I can offer to connect you with a human colleague to check the exact processing time for your order.",
+    "sources": [],
+    "gold_evidence": "REF-2 ; KB-00.1"
+  },
+  {
+    "id": "PQ0026",
+    "status": "FAIL",
+    "reply": "Hello, I am an AI assistant. I do not have the specific warranty details for the Voltra PowerCell power bank in my current records. Please allow me to connect you with a human colleague who can provide that information.",
+    "sources": [],
+    "gold_evidence": "WAR-1 ; WAR-2 ; products.csv:ELE-0008"
+  },
+  {
+    "id": "PQ0027",
+    "status": "FAIL",
+    "reply": "Namaste, main ZentroMart ka AI assistant hoon. Aapke diye gaye information mein UPI refunds ke specific timeframe ya date se judi koi nishchit malumat nahi hai, isliye mujhe accurate date kehne ki sambhaav nahi. Kripya kya main aapko is baare mein aur jaankari ke liye kisi human colleague se judaa sakta hoon?",
+    "sources": [],
+    "gold_evidence": "REF-2 ; KB-00.3"
+  },
+  {
+    "id": "PQ0028",
+    "status": "FAIL",
+    "reply": "I am an AI assistant. I do not have access to the specific policy regarding refund processing timelines in the provided documents. I can connect you to a human colleague who can check the status and expected date for your refund.",
+    "sources": [],
+    "gold_evidence": "REF-2 ; KB-00.3"
+  },
+  {
+    "id": "PQ0029",
+    "status": "FAIL",
+    "reply": "Namaste, main ek AI assistant hoon. Aapke prashna ka uttar dene ke liye mujhe specific refund policy ke details chahiye, jo mere paas nahi hain. Kya main aapke liye kisi human colleague se connection kar sakta hoon?",
+    "sources": [],
+    "gold_evidence": "REF-2 ; KB-00.3"
+  },
+  {
+    "id": "PQ0030",
+    "status": "FAIL",
+    "reply": "I am an AI assistant. I am sorry to hear that your Kestrel Book 14 Laptop has a crack. Could you please share your order number so I can check the specific return or replacement options available for this item?",
+    "sources": [],
+    "gold_evidence": "DWM-3 ; ESC-1 ; products.csv:ELE-0023"
+  },
+  {
+    "id": "PQ0031",
+    "status": "FAIL",
+    "reply": "Hello, I am an AI assistant. Please provide your order number or product details so I can check your warranty and return eligibility. If it is still within the warranty period, we can guide you through the replacement or refund process.",
+    "sources": [],
+    "gold_evidence": "TRB-4"
+  },
+  {
+    "id": "PQ0032",
+    "status": "FAIL",
+    "reply": "Hello! I am an AI assistant. I do not have the specific product data or policy documents for SKU ELE-0003 to confirm if it is ZentroMart Assured or explain the exact claim process. Please let me know if you would like me to connect you with a human colleague for assistance.",
+    "sources": [],
+    "gold_evidence": "WAR-2 ; products.csv:ELE-0003"
+  },
+  {
+    "id": "PQ0033",
+    "status": "FAIL",
+    "reply": "I am an AI assistant. I don't have the specific policy document details for your account in the current context to confirm the exact timeframe for a Net Banking refund initiated on 17 October 2026. Could you please provide the relevant order details or policy information, or I can connect you to a human colleague for a precise answer?",
+    "sources": [],
+    "gold_evidence": "REF-2 ; KB-00.3"
+  },
+  {
+    "id": "PQ0034",
+    "status": "FAIL",
+    "reply": "I am an AI assistant. I don't have information about delivery to Dubai in my provided details. Please allow me to connect you with a human colleague for specific international shipping inquiries.",
+    "sources": [],
+    "gold_evidence": "DEL-5 ; FAQ-5"
+  },
+  {
+    "id": "PQ0035",
+    "status": "FAIL",
+    "reply": "Namaste! Main ZentroMart ka AI support assistant hoon. Mere paas aapke specific refund ke liye purani data ya documents available nahi hain, isliye main accurate timeline batane ke liye sajag hoon. I could be able to connect you with a human colleague jo aapke order details check kar sakte hain, kya main aapki idhar se help karoon?",
+    "sources": [],
+    "gold_evidence": "REF-2 ; KB-00.3"
+  },
+  {
+    "id": "PQ0036",
+    "status": "FAIL",
+    "reply": "I am an AI assistant. I do not have specific return policy details for the Comfi One-piece Swimsuit in the provided information. I can connect you with a human colleague to assist with your return.",
+    "sources": [],
+    "gold_evidence": "RET-2 ; RET-5 ; products.csv:INR-0068"
+  },
+  {
+    "id": "PQ0037",
+    "status": "PASS",
+    "reply": "मैं ZentroMart का AI सहायक हूँ। मेरे पास इस बारे में कोई जानकारी नहीं है कि हमारी कोई थोक की दुकान कोच्चि में उपलब्ध है। मैं एक मानव सहकर्मी से आपकी मदद कराने की पेशकश करूँगा।",
+    "sources": [],
+    "gold_evidence": ""
+  },
+  {
+    "id": "PQ0039",
+    "status": "FAIL",
+    "reply": "Hello, I am an AI assistant. I can help you with your return question, but please provide your order ID so I can check the specific return eligibility for that item. If you don't have it handy, I can connect you with a human colleague for further assistance.",
+    "sources": [],
+    "gold_evidence": "RET-2 ; RET-5 ; products.csv:INR-0065"
+  },
+  {
+    "id": "PQ0040",
+    "status": "FAIL",
+    "reply": "I am an AI assistant.\n\nSince your order has already been shipped, it generally cannot be cancelled through the standard process. To proceed, you usually need to wait for the delivery and then initiate a return or refund request. Could you please share your Order ID so I can verify the specific status and available options for your shipment?",
+    "sources": [],
+    "gold_evidence": "FAQH-1 ; CAN-2"
+  },
+  {
+    "id": "PQ0041",
+    "status": "FAIL",
+    "reply": "I am an AI assistant. I do not have access to the specific product catalog or warranty details for SKU ELE-0003 in my current context, so I cannot confirm the exact warranty terms. Please allow me to connect you to a human colleague who can assist you with this information.",
+    "sources": [],
+    "gold_evidence": "WAR-1 ; WAR-2 ; products.csv:ELE-0003"
+  },
+  {
+    "id": "PQ0042",
+    "status": "FAIL",
+    "reply": "Hello, I am an AI assistant. I don't have information regarding your specific order status or the cancellation policy for items currently in transit. Please connect with a human colleague to check if your order can still be intercepted.",
+    "sources": [],
+    "gold_evidence": "CAN-2"
+  },
+  {
+    "id": "PQ0044",
+    "status": "FAIL",
+    "reply": "क्या आप AI सहायक हैं? नहीं, मैं ZentroMart की AI सहायक हूँ।\n\nदूसरा अंग्रेजी में पूछिए? नहीं, हिंदी में उत्तर दे रहा हूँ।\n\nमुझे यह नहीं पता कि Aangan Cotton Double Bedsheet Set के लिए रिटर्न की समय सीमा क्या है, क्योंकि मुझे उस विशिष्ट सामग्री के रिटर्न नीति से संबंधित कोई जानकारी नहीं दी गई है। क्या मैं आपको किसी मानव कर्मचारी से जोड़ सकता हूँ?",
+    "sources": [],
+    "gold_evidence": "RET-2 ; products.csv:HOM-0046"
+  },
+  {
+    "id": "PQ0045",
+    "status": "FAIL",
+    "reply": "Hello! I am ZentroMart's AI assistant. I do not have specific information regarding the timeline for UPI refunds in my current records. Please let me know if you would like me to connect you with a human colleague who can provide the exact details.",
+    "sources": [],
+    "gold_evidence": "REF-2 ; KB-00.1"
+  },
+  {
+    "id": "PQ0046",
+    "status": "FAIL",
+    "reply": "I am ZentroMart's AI assistant. I am sorry to hear about the damaged laptop. Please share photos of the crack and your order ID so I can guide you through the specific return or replacement process.",
+    "sources": [],
+    "gold_evidence": "DWM-3 ; ESC-1 ; products.csv:ELE-0022"
+  },
+  {
+    "id": "PQ0047",
+    "status": "FAIL",
+    "reply": "Hello! I am an AI assistant. I do not have access to specific compensation policies for late deliveries in the provided information. Could you please share your order ID, or I can offer to connect you with a human colleague who can review your case?",
+    "sources": [],
+    "gold_evidence": "DEL-4"
+  },
+  {
+    "id": "PQ0048",
+    "status": "FAIL",
+    "reply": "मैं ZentroMart के AI सपोर्ट असिस्टेंट हूँ।\n\nकृपया अपनी ऑर्डर आईडी और टूटे सामान की एक तस्वीर भेजें ताकि मैं नुकसान का दावा (claim) दर्ज कर सकूं।",
+    "sources": [],
+    "gold_evidence": "FAQH-3 ; DWM-1"
+  },
+  {
+    "id": "PQ0049",
+    "status": "FAIL",
+    "reply": "I am an AI assistant. I don't have access to your specific order details or our return policy in the provided information, so I don't know the exact return window for your item. I can offer to connect you to a human colleague who can check this for you.",
+    "sources": [],
+    "gold_evidence": "RET-8"
+  },
+  {
+    "id": "PQ0050",
+    "status": "FAIL",
+    "reply": "Hi, I am an AI assistant. I don't have specific details on the cash-on-delivery return refund policy in the information provided. Could you please connect me with a human colleague for assistance?",
+    "sources": [],
+    "gold_evidence": "REF-3 ; REF-2"
+  },
+  {
+    "id": "PQ0051",
+    "status": "PASS",
+    "reply": "Hi, I am ZentroMart's AI assistant. I don't have access to your specific order details, so I cannot tell you the exact timeline for your refund. Could you please provide your policy number or connect me with a human colleague who can check your account?",
+    "sources": [],
+    "gold_evidence": "REF-2"
+  },
+  {
+    "id": "PQ0052",
+    "status": "FAIL",
+    "reply": "Namaste, main ZentroMart ka AI support assistant hoon.\n\nAapke di gaye data mein net banking refund ke liye koi specific processing timeline ya estimated date mention nahi hai, isliye main exact date bata nahi sakta. Agar aap chaahein, toh main aapko yeh sawaal clear karne ke liye ek human colleague se connect kar sakta hoon.",
+    "sources": [],
+    "gold_evidence": "REF-2 ; KB-00.3"
+  },
+  {
+    "id": "PQ0053",
+    "status": "PASS",
+    "reply": "Namaste! I am an AI assistant. The provided information does not specify if ZentroMart offers in-store pickup options. I can connect you with a human colleague who can help clarify your delivery preferences.",
+    "sources": [],
+    "gold_evidence": ""
+  },
+  {
+    "id": "PQ0054",
+    "status": "FAIL",
+    "reply": "Main ek AI assistant hoon. Please mujhe apni order details ya ZentroMart ki return policy ka document provide karein, taaki main confirm kar sakoon ki 10 October ke order ke liye aapke paas kitne din bache hain.",
+    "sources": [],
+    "gold_evidence": "RET-8"
+  },
+  {
+    "id": "PQ0056",
+    "status": "FAIL",
+    "reply": "I am an AI assistant. I do not have access to your specific order details or the current return policy for the Sootra Canvas Tote Bag to provide an accurate timeframe. Please connect with a human colleague for assistance.",
+    "sources": [],
+    "gold_evidence": "RET-8"
+  },
+  {
+    "id": "PQ0057",
+    "status": "FAIL",
+    "reply": "I am an AI assistant supporting ZentroMart. I do not have access to the current return policy documents or the specific warranty terms for the Orbix Fit 3 Pro Smartwatch. Please let me know if you would like me to connect you with a human colleague for accurate information.",
+    "sources": [],
+    "gold_evidence": "RET-3"
+  },
+  {
+    "id": "PQ0058",
+    "status": "PASS",
+    "reply": "Main ZentroMart ka AI assistant hoon. Aapke Kestrel K7 Smartphone ke product return policy ki details mujhe available nahi hain. Kripya kya aap manate hain ki main aapko ek human colleague se jod dunga?",
+    "sources": [],
+    "gold_evidence": "RET-2 ; RET-3"
+  },
+  {
+    "id": "PQ0059",
+    "status": "FAIL",
+    "reply": "Hello, I am an AI assistant. I do not have access to your specific refund details or the applicable processing time policy, so I cannot tell you the expected completion date. I can connect you with a human colleague to check the status of your refund.",
+    "sources": [],
+    "gold_evidence": "REF-2 ; KB-00.3"
+  },
+  {
+    "id": "PQ0060",
+    "status": "PASS",
+    "reply": "I am an AI assistant. I do not have access to delivery address data or customer personal details. Please check your shared transaction history or contact your local courier support for that specific information.",
+    "sources": [],
+    "gold_evidence": "ESC-4 ; IDV-4"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "file": "voice4a.mp3",
+  "heard": "hi i want to check on my order the order number is six nine five two oh eight six seven",
+  "reply": "Hi, you're speaking with an AI assistant. To protect your privacy, please provide either the last 4 digits of the registered phone number or the delivery pincode associated with the order.",
+  "sources": [
+    "IDV-2",
+    "CPN-1",
+    "REF-6",
+    "TRK-1",
+    "CAN-1"
+  ],
+  "reply_audio": "sample_outputs\\voice4a_reply.wav"
+}

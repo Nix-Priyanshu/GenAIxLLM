@@ -1,0 +1,5 @@
+requests>=2.31
+scikit-learn>=1.4
+# anthropic>=0.40.0    # uncomment if you switch LLM_PROVIDER=anthropic
+# openai>=1.0          # uncomment if you switch LLM_PROVIDER=openai
+# gnani-vachana        # uncomment once you have a Gnani API key (Step 4)
