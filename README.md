@@ -69,8 +69,3 @@ All four steps are built and tested:
   `src/evaluate_conversations_live.py` (real LLM calls).
 - **Step 4** (voice): tested end-to-end with real recorded audio via `run.py`.
 
-## Still to do
-- Write the 4-page report (Step 1 vs Step 2 numbers above, what was fixed and
-  why, any remaining known gaps).
-- Record the 2-minute demo video.
-- Push to a public GitHub repo and package the submission ZIP.
